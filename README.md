@@ -14,3 +14,9 @@
 
 ![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/003%E5%8F%98%E8%89%B2%E6%97%8B%E8%BD%AC.gif)
 
+
+
+### 004发光文本悬停
+
+![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/004%E5%8F%91%E5%85%89%E6%96%87%E6%9C%AC%E6%82%AC%E5%81%9C.gif)
+
