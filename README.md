@@ -26,3 +26,9 @@
 
 ![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/005%E7%81%AB%E7%8E%AF.gif)
 
+
+
+### 006前后对比效果
+
+![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/006%E5%89%8D%E5%90%8E%E5%AF%B9%E6%AF%94.gif)
+
