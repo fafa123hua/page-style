@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="../006前后对比效果/css/index.css" />
+  </head>
+  <body>
+    <div class="comparison" style="--slide: 500">
+      <input
+        type="range"
+        class="slider"
+        min="1"
+        max="1000"
+        value="50"
+        oninput="this.parentNode.style.setProperty('--slide',`${this.value}`)"
+      />
+    </div>
+  </body>
+</html>
