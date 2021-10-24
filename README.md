@@ -32,3 +32,7 @@
 
 ![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/006%E5%89%8D%E5%90%8E%E5%AF%B9%E6%AF%94.gif)
 
+### 007文本色彩流淌
+
+![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/007%E6%96%87%E6%9C%AC%E8%89%B2%E5%BD%A9%E6%B5%81%E6%B7%8C.gif)
+
