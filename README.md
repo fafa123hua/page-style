@@ -36,3 +36,9 @@
 
 ![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/007%E6%96%87%E6%9C%AC%E8%89%B2%E5%BD%A9%E6%B5%81%E6%B7%8C.gif)
 
+
+
+### 008音阶
+
+![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/007%E9%9F%B3%E9%98%B6.gif)
+
