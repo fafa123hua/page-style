@@ -42,3 +42,9 @@
 
 ![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/007%E9%9F%B3%E9%98%B6.gif)
 
+
+
+### 009文字聚合散开
+
+![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/009%E6%96%87%E5%AD%97%E8%81%9A%E5%90%88%E6%95%A3%E5%BC%80.gif)
+
