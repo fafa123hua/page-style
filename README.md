@@ -60,3 +60,9 @@
 
 ![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/011%E7%88%B1%E5%BF%83.gif)
 
+
+
+### 012液体加载动画
+
+![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/012%E6%B6%B2%E4%BD%93%E5%8A%A0%E8%BD%BD.gif)
+
