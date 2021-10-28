@@ -53,3 +53,10 @@
 ### 010水滴
 
 ![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/010%E6%B0%B4%E6%BB%B4.png)
+
+
+
+### 011爱心
+
+![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/011%E7%88%B1%E5%BF%83.gif)
+
