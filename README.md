@@ -66,3 +66,8 @@
 
 ![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/012%E6%B6%B2%E4%BD%93%E5%8A%A0%E8%BD%BD.gif)
 
+
+
+### 013摆动
+
+![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/013%E6%91%87%E6%91%86.gif)
