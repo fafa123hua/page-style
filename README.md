@@ -71,3 +71,10 @@
 ### 013摆动
 
 ![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/013%E6%91%87%E6%91%86.gif)
+
+
+
+### 014眼睛跟随鼠标
+
+![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/014%E7%9C%BC%E7%9D%9B%E8%B7%9F%E9%9A%8F.gif)
+
