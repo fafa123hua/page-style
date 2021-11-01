@@ -1,0 +1,99 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  background-color: rgb(68, 127, 130);
+  display: flex;
+  justify-content: center;
+}
+.shell {
+  position: relative;
+  top: 150px;
+  left: -110px;
+}
+.a,
+.b,
+.c {
+  position: absolute;
+  height: 300px;
+  width: 30px;
+  background-color: #333;
+  top: 49px;
+  left: 0;
+  transform: rotate(60deg) skew(30deg);
+}
+.b {
+  background-color: #aaa;
+  transform: rotate(180deg) skew(30deg);
+  left: 180px;
+  top: 36px;
+}
+.c {
+  background-color: #666;
+  transform: rotate(-60deg) skew(30deg);
+  left: 101px;
+  top: 199px;
+}
+.a::after,
+.b::after,
+.c::after {
+  content: '';
+  position: absolute;
+  width: 0;
+  height: 278px;
+  left: 165px;
+  top: -141px;
+  transform: rotate(-90deg) skew(0deg);
+  border-bottom: 23px solid transparent;
+  border-right: 20px solid #333;
+  transition: 0.5s;
+}
+.b::after {
+  border-right: 20px solid #aaa;
+}
+.c::after {
+  border-right: 20px solid #666;
+}
+.wrapper2 {
+  position: absolute;
+  transform: scale(0.5);
+  margin-left: 56px;
+  margin-top: 121px;
+}
+.wrapper3 {
+  position: absolute;
+  transform: scale(0.22);
+  margin-left: 88px;
+  margin-top: 188px;
+}
+.d,
+.e,
+.f {
+  position: absolute;
+  background-color: #333;
+  width: 130px;
+  height: 25px;
+  top: 270px;
+  left: -160px;
+  transform: rotate(60deg) skew(30deg);
+}
+.e {
+  background-color: #666;
+  top: 400px;
+  left: 173px;
+  transform: rotate(120deg) skew(30deg);
+}
+.f {
+  background-color: #aaa;
+  top: 35px;
+  left: 100px;
+  transform: rotate(180deg) skew(30deg);
+}
+.shell:hover .a::after,
+.shell:hover .b::after,
+.shell:hover .c::after {
+  height: 290px;
+  top: 31px;
+  left: 76px;
+}
