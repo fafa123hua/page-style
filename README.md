@@ -90,3 +90,8 @@
 
 ![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/016%E4%B8%89%E8%A7%92%E5%BD%A2%E5%8F%98%E6%8D%A2.gif)
 
+
+
+### 017轮播图
+
+![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/017%E8%BD%AE%E6%92%AD%E5%9B%BE.gif)
