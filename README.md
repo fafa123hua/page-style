@@ -102,3 +102,8 @@
 
 ![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/018%E5%92%96%E5%95%A1.gif)
 
+
+
+### 019小幽灵
+
+![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/019%E5%B0%8F%E5%B9%BD%E7%81%B5.gif)
