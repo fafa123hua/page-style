@@ -107,3 +107,10 @@
 ### 019小幽灵
 
 ![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/019%E5%B0%8F%E5%B9%BD%E7%81%B5.gif)
+
+
+
+### 020键盘
+
+![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/020%E9%94%AE%E7%9B%98.gif)
+
