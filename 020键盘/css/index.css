@@ -1,0 +1,77 @@
+body {
+  background-color: #f1f1f7;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.keyboard {
+  user-select: none;
+  cursor: pointer;
+}
+.keys {
+  display: flex;
+  list-style: none;
+}
+
+li {
+  box-shadow: 0 -6px 10px rgba(255, 255, 255), 0 4px 15px rgba(0, 0, 0, 0.3);
+  height: 5em;
+  width: 6em;
+  font-size: 1em;
+  margin: 0.3em;
+  background-color: #f2f2f2;
+  border-radius: 15px;
+  text-align: center;
+  line-height: 5em;
+  letter-spacing: 2px;
+  transition: all 0.25s;
+}
+li:active {
+  box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.15);
+  color: rgba(12, 164, 190);
+  text-shadow: 0 0 15px #57c1f1;
+}
+.wun {
+  color: #eb3f33;
+}
+.two {
+  color: #0d0b8d;
+}
+.five,
+.four,
+.three {
+  color: #2b46df;
+}
+.six {
+  color: #e73d09;
+}
+
+.Esc {
+  width: 10em;
+}
+.back {
+  width: 10.1em;
+}
+.Tab {
+  width: 10em;
+}
+.Caps {
+  width: 11em;
+}
+.Enter {
+  width: 11.5em;
+}
+.Shift {
+  width: 14.6em;
+}
+.ctrl,
+.win,
+.alt,
+.fn {
+  width: 9.5em;
+}
+.space {
+  width: 35.4em;
+}
