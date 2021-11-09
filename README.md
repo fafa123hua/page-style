@@ -138,3 +138,9 @@
 
 ![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/024%E7%8E%BB%E7%92%83%E6%82%AC%E5%81%9C.gif)
 
+
+
+### 025三点错位循环
+
+![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/025%E4%B8%89%E7%82%B9%E4%BA%A4%E9%94%99%E5%BE%AA%E7%8E%AF.gif)
+
