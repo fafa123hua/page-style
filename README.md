@@ -149,3 +149,10 @@
 ### 026B站头图日夜转换
 
 ![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/026B%E7%AB%99%E5%A4%B4%E5%9B%BE%E6%97%A5%E5%A4%9C%E8%BD%AC%E6%8D%A2.gif)
+
+
+
+### 027悬浮动效
+
+![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/027%E6%82%AC%E6%B5%AE%E5%8A%A8%E6%95%88.gif)
+
