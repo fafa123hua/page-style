@@ -161,3 +161,10 @@
 ### 028文字烟雾消散
 
 ![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/028%E6%96%87%E5%AD%97%E7%83%9F%E9%9B%BE%E6%B6%88%E6%95%A3.gif)
+
+
+
+### 029波浪
+
+![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/029%E6%B3%A2%E6%B5%AA.gif)
+
