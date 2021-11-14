@@ -156,3 +156,8 @@
 
 ![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/027%E6%82%AC%E6%B5%AE%E5%8A%A8%E6%95%88.gif)
 
+
+
+### 028文字烟雾消散
+
+![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/028%E6%96%87%E5%AD%97%E7%83%9F%E9%9B%BE%E6%B6%88%E6%95%A3.gif)
