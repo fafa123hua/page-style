@@ -173,3 +173,10 @@
 ### 030波纹按键
 
 ![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/030%E6%B3%A2%E7%BA%B9%E6%8C%89%E9%94%AE.gif)
+
+
+
+### 031粒子环绕鼠标
+
+![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/031%E7%B2%92%E5%AD%90%E7%8E%AF%E7%BB%95%E9%BC%A0%E6%A0%87.gif)
+
