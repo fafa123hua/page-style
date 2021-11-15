@@ -1,12 +1,14 @@
 var canvas = document.getElementById('canvas')
 canvas.width = window.innerWidth
-canvas.heigth = window.innerHeight
+canvas.height = window.innerHeight
 var ctx = canvas.getContext('2d')
+
 var mouse = {
   x: 0,
   y: 0,
 }
 var particlesArray = []
+
 canvas.addEventListener('mousemove', function (evt) {
   mouse.x = evt.clientX
   mouse.y = evt.clientY
@@ -35,19 +37,21 @@ class Particle {
     ctx.fill()
   }
 }
+
 function init() {
-  for (let i = 0; i < count; i++) {
+  for (var i = 0; i < count; i++) {
     particlesArray.push(
       new Particle(i * 5 + 50, Math.random() + 1, Math.random() * 2 + 1)
     )
   }
 }
 init()
+
 function animate() {
   ctx.globalAlpha = 0.1
   ctx.fillStyle = 'black'
-  ctx.fillRect(0, 0, canvas.width, canvas.heigth)
-  for (let i = 0; i < count; i++) {
+  ctx.fillRect(0, 0, canvas.width, canvas.height)
+  for (var i = 0; i < count; i++) {
     particlesArray[i].update()
     particlesArray[i].draw()
   }
