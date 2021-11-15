@@ -168,3 +168,8 @@
 
 ![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/029%E6%B3%A2%E6%B5%AA.gif)
 
+
+
+### 030波纹按键
+
+![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/030%E6%B3%A2%E7%BA%B9%E6%8C%89%E9%94%AE.gif)
