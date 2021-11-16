@@ -186,3 +186,8 @@
 
 ![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/032%E8%A3%85%E9%A5%B0%E4%B8%9D%E5%B8%A6.gif)
 
+
+
+### 033动态水面加载
+
+![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/033%E5%8A%A8%E6%80%81%E6%B0%B4%E9%9D%A2%E5%8A%A0%E8%BD%BD.gif)
