@@ -180,3 +180,9 @@
 
 ![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/031%E7%B2%92%E5%AD%90%E7%8E%AF%E7%BB%95%E9%BC%A0%E6%A0%87.gif)
 
+
+
+### 032装饰丝带
+
+![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/032%E8%A3%85%E9%A5%B0%E4%B8%9D%E5%B8%A6.gif)
+
