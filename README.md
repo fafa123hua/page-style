@@ -200,3 +200,8 @@ gif显示有点小问题
 
 ![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/034%E5%8F%91%E5%85%89%E7%AB%8B%E6%96%B9%E4%BD%93.gif)
 
+
+
+### 035还不错的开关
+
+![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/035%E8%BF%98%E4%B8%8D%E9%94%99%E7%9A%84%E5%BC%80%E5%85%B3.gif)
