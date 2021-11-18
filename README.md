@@ -191,3 +191,12 @@
 ### 033动态水面加载
 
 ![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/033%E5%8A%A8%E6%80%81%E6%B0%B4%E9%9D%A2%E5%8A%A0%E8%BD%BD.gif)
+
+
+
+### 034发光立方体
+
+gif显示有点小问题
+
+![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/034%E5%8F%91%E5%85%89%E7%AB%8B%E6%96%B9%E4%BD%93.gif)
+
