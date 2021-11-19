@@ -205,3 +205,10 @@ gif显示有点小问题
 ### 035还不错的开关
 
 ![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/035%E8%BF%98%E4%B8%8D%E9%94%99%E7%9A%84%E5%BC%80%E5%85%B3.gif)
+
+
+
+### 036无缝轮播
+
+![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/036%E6%97%A0%E7%BC%9D%E8%BD%AE%E6%92%AD.gif)
+
