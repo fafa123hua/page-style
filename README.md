@@ -222,3 +222,9 @@ gif显示有点小问题
 
 ![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/038%E5%BE%84%E5%90%91%E8%8F%9C%E5%8D%95.gif)
 
+
+
+### 039笑脸评分栏
+
+![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/039%E7%AC%91%E8%84%B8%E8%AF%84%E5%88%86%E6%A0%8F.gif)
+
