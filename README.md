@@ -228,3 +228,8 @@ gif显示有点小问题
 
 ![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/039%E7%AC%91%E8%84%B8%E8%AF%84%E5%88%86%E6%A0%8F.gif)
 
+
+
+### 040输入框
+
+![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/040%E8%BE%93%E5%85%A5%E6%A1%86.gif)
