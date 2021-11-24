@@ -233,3 +233,10 @@ gif显示有点小问题
 ### 040输入框
 
 ![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/040%E8%BE%93%E5%85%A5%E6%A1%86.gif)
+
+
+
+### 041明暗切换
+
+![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/041%E6%98%8E%E6%9A%97%E5%88%87%E6%8D%A2.gif)
+
