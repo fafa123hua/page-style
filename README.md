@@ -240,3 +240,9 @@ gif显示有点小问题
 
 ![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/041%E6%98%8E%E6%9A%97%E5%88%87%E6%8D%A2.gif)
 
+
+
+### 042环形进度条
+
+![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/042%E7%8E%AF%E5%BD%A2%E8%BF%9B%E5%BA%A6%E6%9D%A1.gif)
+
