@@ -1,0 +1,59 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  height: 100vh;
+  background-color: #333;
+}
+.toggle {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  width: 70px;
+  height: 70px;
+  background-color: #555;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: 0.2s;
+  border-radius: 50%;
+  box-shadow: 0 0px 10px rgba(255, 255, 255), 0 4px 15px rgba(0, 0, 0, 0.3);
+  color: rgba(12, 164, 190);
+  text-shadow: 0 0 15px #57c1f1;
+}
+.toggle:active {
+  box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.15);
+  color: rgba(12, 164, 190);
+  text-shadow: 0 0 15px #57c1f1;
+}
+.toggle::before {
+  content: '';
+  position: absolute;
+  width: 28px;
+  height: 2px;
+  background-color: #fff;
+  transition: 0.2s;
+  transform: translateY(-10px);
+  box-shadow: 0 10px 0 #fff;
+}
+.toggle::after {
+  content: '';
+  position: absolute;
+  width: 28px;
+  height: 2px;
+  background-color: #fff;
+  transition: 0.2s;
+  transform: translateY(10px);
+}
+
+.toggle.active::before {
+  transform: translateY(0px) rotate(45deg);
+  box-shadow: 0 0 0 #fff;
+}
+.toggle.active::after {
+  transform: translateY(0px) rotate(-45deg);
+  box-shadow: 0 0 0 #fff;
+}
