@@ -246,3 +246,9 @@ gif显示有点小问题
 
 ![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/042%E7%8E%AF%E5%BD%A2%E8%BF%9B%E5%BA%A6%E6%9D%A1.gif)
 
+
+
+### 043模态框
+
+![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/043%E6%A8%A1%E6%80%81%E6%A1%86.gif)
+
