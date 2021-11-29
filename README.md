@@ -252,3 +252,9 @@ gif显示有点小问题
 
 ![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/043%E6%A8%A1%E6%80%81%E6%A1%86.gif)
 
+
+
+### 044背景生成
+
+![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/044%E8%83%8C%E6%99%AF%E7%94%9F%E6%88%90.gif)
+
