@@ -264,3 +264,8 @@ gif显示有点小问题
 
 ![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/045%E6%97%B6%E9%92%9F.gif)
 
+
+
+### 046ins风格图标
+
+![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/046ins%E9%A3%8E%E6%A0%BC%E5%9B%BE%E6%A0%87.gif)
