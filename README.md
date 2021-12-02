@@ -269,3 +269,9 @@ gif显示有点小问题
 ### 046ins风格图标
 
 ![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/046ins%E9%A3%8E%E6%A0%BC%E5%9B%BE%E6%A0%87.gif)
+
+
+
+### 047卡片翻转
+
+![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/047%E5%8D%A1%E7%89%87%E7%BF%BB%E8%BD%AC.gif)
