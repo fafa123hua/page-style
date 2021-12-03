@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  height: 160vh;
+}
+.background {
+  position: relative;
+  height: 160vh;
+  overflow: hidden;
+  background-image: url(https://raw.githubusercontent.com/fafa123hua/img-folder/master/%E8%BD%AE%E6%92%AD%E5%9B%BE1.jpg);
+  background-size: cover;
+  background-position: 50% 50%;
+  font: 900 39rem '';
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+}
+.background::before {
+  content: '';
+  background-size: cover;
+  background-image: inherit;
+  background-position: 50% 50%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  z-index: -99;
+}
+h2 {
+  position: absolute;
+  letter-spacing: 2px;
+  top: 100vh;
+  width: 60%;
+  color: #fff;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 30px;
+  background-color: rgba(0, 0, 0, 0.3);
+}
