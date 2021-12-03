@@ -275,3 +275,9 @@ gif显示有点小问题
 ### 047卡片翻转
 
 ![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/047%E5%8D%A1%E7%89%87%E7%BF%BB%E8%BD%AC.gif)
+
+
+
+### 048滚动视差
+
+![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/048%E6%BB%9A%E5%8A%A8%E8%A7%86%E5%B7%AE.gif)
