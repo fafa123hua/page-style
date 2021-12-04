@@ -281,3 +281,9 @@ gif显示有点小问题
 ### 048滚动视差
 
 ![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/048%E6%BB%9A%E5%8A%A8%E8%A7%86%E5%B7%AE.gif)
+
+
+
+### 049导航栏
+
+![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/049%E5%AF%BC%E8%88%AA%E6%A0%8F.gif)
