@@ -287,3 +287,10 @@ gif显示有点小问题
 ### 049导航栏
 
 ![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/049%E5%AF%BC%E8%88%AA%E6%A0%8F.gif)
+
+
+
+### 050拖影粒子
+
+![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/050%E6%8B%96%E5%BD%B1%E7%B2%92%E5%AD%90.gif)
+
