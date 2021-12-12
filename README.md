@@ -299,3 +299,9 @@ gif显示有点小问题
 ### 051滚动视差2
 
 ![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/051%E6%BB%9A%E5%8A%A8%E8%A7%86%E5%B7%AE2.gif)
+
+
+
+### 052搜索栏聚焦
+
+![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/052%E6%90%9C%E7%B4%A2%E6%A0%8F%E8%81%9A%E7%84%A6.gif)
