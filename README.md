@@ -305,3 +305,9 @@ gif显示有点小问题
 ### 052搜索栏聚焦
 
 ![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/052%E6%90%9C%E7%B4%A2%E6%A0%8F%E8%81%9A%E7%84%A6.gif)
+
+
+
+### 053波纹按键2
+
+![image text](https://raw.githubusercontent.com/fafa123hua/img-folder/master/053%E6%B3%A2%E7%BA%B9%E6%8C%89%E9%94%AE2.gif)
